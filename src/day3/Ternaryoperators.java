@@ -14,7 +14,7 @@ System.out.println(x);
 //System.out.println(xy);
 
 
-int xyz  = (1==2)? 1000:200;
+int xyz  = (1==2) ? 1000 :200;
 System.out.println(xyz);
 
 int person_age = 30;
